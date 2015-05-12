@@ -1,6 +1,8 @@
 Prezto — Instantly Awesome Zsh
 ==============================
 
+This fork acts as [@KenPowers][kp]' personal dotfiles repository.
+
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
 interface environment with sane defaults, aliases, functions, auto completion,
 and prompt themes.
@@ -115,3 +117,4 @@ SOFTWARE.
 [6]: http://gitref.org
 [7]: http://www.bash2zsh.com/zsh_refcard/refcard.pdf
 [8]: http://grml.org/zsh/zsh-lovers.html
+[kp]: https://github.com/KenPowers "KenPowers"
